@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.TransitWatch" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorAccent">#00796B</item>
+    </style>
+    <style name="Theme.TransitWatch" parent="Base.Theme.TransitWatch" />
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.TransitWatch" parent="Base.Theme.TransitWatch">
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>
